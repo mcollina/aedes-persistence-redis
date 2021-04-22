@@ -58,7 +58,7 @@
     "pre-commit": "^1.2.2",
     "release-it": "^14.0.3",
     "snazzy": "^9.0.0",
-    "standard": "^14.3.4",
+    "standard": "^16.0.3",
     "tape": "^4.13.2"
   },
   "dependencies": {
